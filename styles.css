@@ -50,7 +50,7 @@ tr, td {
 @media (max-width: 1440px) {
     .container {
         width: 600px;
-        height: 2000px;
+        height:auto;
     }
   }
   
